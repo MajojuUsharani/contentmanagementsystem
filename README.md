@@ -1,4 +1,4 @@
-# contentmanagementsystem
+# Content Management System
 This is my FRT Internship project....
 
 azure link: 
@@ -17,12 +17,16 @@ top CMS like wordpress,squarespace,mangolia etc.
 
 # Azure Technologies used :
 1.Static Web Apps(for deployment of the website).
+
 2.Azure Storage Accounts.
+
 3.Container
 
 # Web Technologies used :
 1.HTML
+
 2.CSS
+
 3.JavaScript
 
 # IDE Used :
