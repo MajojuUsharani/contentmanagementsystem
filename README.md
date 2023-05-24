@@ -1,7 +1,8 @@
 # Content Management System
 This is my FRT Internship project....
 
-azure link:  
+# azure link:  
+https://contentmanagementsystems.z7.web.core.windows.net/
 
 # Project Statement :
 content management system (CMS) for managing digital content. 
