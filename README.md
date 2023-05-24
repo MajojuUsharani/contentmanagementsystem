@@ -1,12 +1,12 @@
 # Content Management System
 This is my FRT Internship project....
 
-azure link: 
+azure link:  
 
-# Project Statement:
+# Project Statement :
 content management system (CMS) for managing digital content. 
 
-# Project description:-
+# Project description :
 Content Management System helps companies manage digital content. 
 Whole teams can use these systems to create, edit, organize, and publish content. 
 It acts as a single place to store content and provides automated processes for collaborative digital content management 
