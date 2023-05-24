@@ -50,4 +50,10 @@ Vs code
 8.Finally my website was deployed on the azure web services and ready to use...
 
 # Contributors
-Usha Rani - @usharanimajoju
+Usha Rani - @MajojuUsharani
+
+Praneeth Reddy - @PraneethReddykonyala
+
+Hari Chandana - @chandanapundra
+
+Mamatha - @burugumamatha13
